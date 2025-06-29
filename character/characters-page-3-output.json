@@ -1,0 +1,26 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "41",
+          "name": "Big Boobed Waitress",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+        },
+        {
+          "id": "42",
+          "name": "Birdperson",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+        },
+        {
+          "id": "43",
+          "name": "Bill",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg"
+        }
+      ]
+    }
+  }
+}
